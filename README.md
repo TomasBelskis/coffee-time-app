@@ -1,2 +1,2 @@
-# coffee-time-app
-App to keep macos awake
+# MacOS Automation
+Basic automation and window management for macos using hammerspoon.
